@@ -1,0 +1,88 @@
+                                 -*-*-*-*-*-*-*-*Currency Converter*-*-*-*-*-*-*-*
+
+                    Check Currency Value in Your Country and Convert
+
+                    1.India INR          2.United States Dollar
+                    3.Euro EUR             4.Japanes Yen JPY
+                    5.British Pound GBP    6.Australian Dollar AUD
+                    7.Canadian Dollar CAD
+
+                    Enter Country Number : 1    // User input: 1
+
+                    All Currency values in INR
+
+                    1. 1(USD)= 75 INR    2. 1(EUR)= 83 INR
+                    3. 1(JPY)= 0.86 INR  4. 1(GBP)= 99 INR
+                    5. 1(AUD)= 54 INR   6. 1(CAD)= 58 INR
+
+                    Choose Currency Number to Convert in CAD
+
+                    Enter Number to Convert: 1    // User input: 1
+
+                    Enter the Amount in INR: 1000    // User input: 1000
+
+                    INR Rate In USD: 13.3333333333333 Dollar
+
+                    Enter Country Number : 2    // User input: 2
+
+                    All Currency values in USD
+
+                    1. 1(INR)= 0.013 USD    2. 1(EUR)= 1.10 USD
+                    3. 1(JPY)= 0.0091 USD   4. 1(GBP)= 1.31 USD
+                    5. 1(AUD)= 0.74 USD    6. 1(CAD)= 0.80 USD
+
+                    Choose Currency Number to Convert in JPY
+
+                    Enter Number to Convert: 2    // User input: 2
+
+                    Enter the Amount in USD: 1000    // User input: 1000
+
+                    USD Rate In EUR: 909.090909090909 Euro
+
+                    Enter Country Number : 3    // User input: 3
+
+                    All Currency values in EUR
+
+                    1. 1(USD)= 0.91 EUR    2. 1(INR)= 0.011 EUR
+                    3. 1(JPY)= 0.0082 EUR  4. 1(GBP)= 1.18 EUR
+                    5. 1(AUD)= 0.65 EUR   6. 1(CAD)= 0.69 EUR
+
+                    Choose Currency Number to Convert in EUR
+
+                    Enter Number to Convert: 4    // User input: 4
+
+                    Enter the Amount in EUR: 1000    // User input: 1000
+
+                    EUR Rate In GBP: 847.457627118643 Pound
+
+                    Enter Country Number : 4    // User input: 4
+
+                    All Currency values in JPY
+
+                    1. 1(USD)= 113.99 JPY   2. 1(EUR)= 129.86 JPY
+                    3. 1(INR)= 1.36 JPY     4. 1(GBP)= 150.97 JPY
+                    5. 1(AUD)= 83.01 JPY   6. 1(CAD)= 88.51 JPY
+
+                    Choose Currency Number to Convert in JPY
+
+                    Enter Number to Convert: 1    // User input: 1
+
+                    Enter the Amount in JPY: 1000    // User input: 1000
+
+                    JPY Rate In INR: 13.3646291656792 Euro
+
+                    Enter Country Number : 5    // User input: 5
+
+                    All Currency values in GBP
+
+                    1. 1(USD)= 0.76 GBP    2. 1(EUR)= 0.85 GBP
+                    3. 1(JPY)= 0.0066 GBP  4. 1(INR)= 0.0075 GBP
+                    5. 1(AUD)= 0.55 GBP    6. 1(CAD)= 0.59 GBP
+
+                    Choose Currency Number to Convert in GBP
+
+                    Enter Number to Convert: 1    // User input: 1
+
+                    Enter the Amount in GBP: 1000    // User input: 1000
+
+                    GBP Rate In INR: 1315.78947368421 Euro
